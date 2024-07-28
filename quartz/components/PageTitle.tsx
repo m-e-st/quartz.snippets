@@ -1,3 +1,4 @@
+// SNIPPETS modifications 28.07.2024
 import { pathToRoot } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
@@ -7,9 +8,10 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title
   const baseDir = pathToRoot(fileData.slug!)
   return (
-    <h1 class={classNames(displayClass, "page-title")}>
-      <a href={baseDir}>{title}</a>
-    </h1>
+      <h1 class={classNames(displayClass, "page-title")} style="display:flex;align-items:center">
+        <img src="/static/logo.svg" alt="Icon" height="36" style="float:left;vertical-align:middle;margin:0;margin-right:8px" />
+        <a href={baseDir}>{title}</a>
+      </h1>
   )
 }
 
