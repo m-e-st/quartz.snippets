@@ -1,3 +1,4 @@
+// SNIPPETS modifications
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
@@ -8,8 +9,10 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "Snippets on Matrix": "javascript:alert('Diese Funktion ist noch nicht implementiert.');",
+      GitHub: "https://github.com/m-e-st/quartz.snippets.git",
+      Quartz: "https://github.com/jackyzha0/quartz",
+      Obsidian: "https://obsidian.md/",
     },
   }),
 }

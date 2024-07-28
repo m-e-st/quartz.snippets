@@ -1,3 +1,4 @@
+// SNIPPETS modifications
 import { Translation } from "./definition"
 
 export default {
@@ -26,11 +27,11 @@ export default {
       noBacklinksFound: "Keine Backlinks gefunden",
     },
     themeToggle: {
-      lightMode: "Light Mode",
-      darkMode: "Dark Mode",
+      lightMode: "Heller Modus",
+      darkMode: "Dunkler Modus",
     },
     explorer: {
-      title: "Explorer",
+      title: "Verzeichnis",
     },
     footer: {
       createdWith: "Erstellt mit",

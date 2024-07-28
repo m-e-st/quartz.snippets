@@ -1,3 +1,4 @@
+// SNIPPETS modifications
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
@@ -8,12 +9,12 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🀄 Snippets",
+    pageTitle: "📚 Snippets",
     enableSPA: true,
     enablePopovers: true,
-    analytics: { },
+    analytics: null,
     locale: "de-DE",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "quartz-snippets.pages.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -79,7 +80,7 @@ const config: QuartzConfig = {
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
-        enableRSS: true,
+        enableRSS: false,
       }),
       Plugin.Assets(),
       Plugin.Static(),
