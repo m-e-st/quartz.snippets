@@ -2,7 +2,7 @@
   "name": "snippets",
   "description": "snippet is the digital garden edited with obsidian and built with quartz",
   "private": true,
-  "version": "0.1.0",
+  "version": "4.2.3",
   "type": "module",
   "author": "mstumpp <michael@stumpp.name>",
   "license": "ISC",
