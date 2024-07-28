@@ -11,6 +11,5 @@ private/
 .replit
 replit.nix
 
-content/internal
-content/Notizen
-content/sandbox
+docs
+
