@@ -9,10 +9,10 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Snippets on Matrix": "javascript:alert('Diese Funktion ist noch nicht implementiert.');",
-      GitHub: "https://github.com/m-e-st/quartz.snippets.git",
-      Quartz: "https://github.com/jackyzha0/quartz",
-      Obsidian: "https://obsidian.md/",
+      //~ "Snippets on Matrix": "javascript:alert('Diese Funktion ist noch nicht implementiert.');",
+      //~ GitHub: "https://github.com/m-e-st/quartz.snippets.git",
+      //~ Quartz: "https://github.com/jackyzha0/quartz",
+      //~ Obsidian: "https://obsidian.md/",
     },
   }),
 }

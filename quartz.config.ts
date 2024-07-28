@@ -12,9 +12,9 @@ const config: QuartzConfig = {
     pageTitle: "Snippets",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: { },
     locale: "de-DE",
-    baseUrl: "quartz-snippets.pages.dev",
+    baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
