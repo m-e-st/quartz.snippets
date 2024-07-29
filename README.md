@@ -18,3 +18,13 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
     <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
   </a>
 </p>
+
+
+## Modifications for SNIPPETS
+
+- I18N de-DE: 
+	- readingTime: ({ minutes }) => `Lesezeit ${minutes} min`,
+	- lightMode: "Heller Modus",
+    - darkMode: "Dunkler Modus",
+    - explorer: { title: "Verzeichnis", }
+		

@@ -1,0 +1,1 @@
+[API Documentation - urlscan.io](https://urlscan.io/docs/api/)

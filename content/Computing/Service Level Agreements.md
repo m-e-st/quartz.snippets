@@ -1,0 +1,1 @@
+[Kommentar zum Cloud-Ausfall bei MS: Ist der Patient schon tot oder nur lädiert? | heise online](https://www.heise.de/meinung/Kommentar-zum-Cloud-Ausfall-bei-MS-Ist-der-Patient-schon-tot-oder-nur-laediert-7484066.html)
