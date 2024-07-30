@@ -1,5 +1,5 @@
 ---
-date: 2024-07-33
+date: 2024-07-31
 ---
 
 Hier wird die Einrichtung dieses Informationspools **snippets** beschrieben.
