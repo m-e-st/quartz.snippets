@@ -1,3 +1,7 @@
+---
+date: 2024-07-33
+---
+
 Hier wird die Einrichtung dieses Informationspools **snippets** beschrieben.
 
 ### Anlage
