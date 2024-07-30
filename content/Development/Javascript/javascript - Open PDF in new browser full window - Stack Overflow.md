@@ -1,4 +1,11 @@
-Open PDF locally with javascript
+---
+date: 2022-10-31
+tags:
+  - javascript
+  - code sample
+---
+
+#### Open PDF locally with javascript
 
 ```js
 function base64ToArrayBuffer(data) { 

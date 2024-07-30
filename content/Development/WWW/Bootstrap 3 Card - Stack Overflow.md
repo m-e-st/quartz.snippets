@@ -1,4 +1,10 @@
-Bootstrap 3 Cards
+---
+date: 2022-01-10
+---
+> [!warning] Möglicherweise veralteter Inhalt! 
+> Ich verwende Bootstrap 3 nicht mehr!
+
+## Bootstrap 3 Cards
 
 [Bootstrap 3 Card - Stack Overflow](https://stackoverflow.com/questions/49160572/bootstrap-3-card)
 https://bootsnipp.com/tags/card/3

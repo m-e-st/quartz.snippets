@@ -1,3 +1,8 @@
+---
+date: 2022-01-10
+---
+> [!warning] Möglicherweise veralteter Inhalt! 
+> Ich verwende Bootstrap 3 nicht mehr!
 
 ## Navbar
 

@@ -1,4 +1,13 @@
+---
+tags:
+  - javascript
+  - solution
+  - jam stack
+---
 
+Dieses Problem tritt bei allen meinen Eleventy-Projekten auf, welche html-minifier zur Kompression nutzen. Zur Auflösung ist es notwendig, von der nicht mehr unterstützten NLM `html-minifier` auf das Drop-In-Replacement `html-minifier-terser` zu wechseln 
+
+### Problem
 
 > [!bug]  html-minifier has an unfixable bug
 
@@ -17,6 +26,24 @@ Some issues need review, and may require choosing
 a different dependency.
 ```
 ---
+
+### Lösung
+
+- Datei `.eleventy.js`
+```
+
+```
+
+- Datei `.pakcage.json`
+
+- Befehle
+```sh
+npm remove html-minifier
+npm install html-minifier-terser
+```
+
+### Referenzen
+
 [Solution from Github](https://github.com/kangax/html-minifier/issues/1135): **switch to html-minifier-terser**
 NPM Libraries
 - https://www.npmjs.com/package/html-minifier

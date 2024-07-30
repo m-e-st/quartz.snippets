@@ -1,4 +1,11 @@
-Best Tutoriel on IIFE: https://www.javascripttutorial.net/javascript-immediately-invoked-function-expression-iife/
+---
+date: 2022-11-22
+tags:
+  - javascript
+  - code sample
+---
+
+Best Tutorial on IIFE: https://www.javascripttutorial.net/javascript-immediately-invoked-function-expression-iife/
 
 #### Zip with javascript
 

@@ -8,4 +8,7 @@ IT im Allgemeinen und die Web-Entwicklung im Besonderen. Sie basiert auf dem Edi
 ---
 > [!caution] Diese Sammlung befindet sich im Aufbau und ist daher **nicht öffentlich**.
 
-![[quartzIcon.png]]
+## Die Veröffentlichung der Snippets erfolgt durch QUARTZ
+[![[quartzIcon.png|320]]](https://quartz.jzhao.xyz/)
+
+

@@ -1,6 +1,11 @@
-## Referenzen
+---
+date: 2023-10-31
+tags:
+  - javascript
+  - crypto
+---
 
-### Kryphtographie
+### Kryptographie
 
 https://crypto.stanford.edu/sjcl/ ==> http://bitwiseshiftleft.github.io/sjcl/
 

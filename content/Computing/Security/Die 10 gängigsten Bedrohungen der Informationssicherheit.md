@@ -1,3 +1,6 @@
+---
+date: 2023-11-01
+---
 
 # Die 10 gängigsten Bedrohungen der Informationssicherheit
 

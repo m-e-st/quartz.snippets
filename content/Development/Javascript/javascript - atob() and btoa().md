@@ -1,3 +1,10 @@
+---
+date: 2022-11-21
+tags:
+  - javascript
+  - code sample
+---
+
 ### atob und btoa selbst gemacht
 
 > Quelle: [www.a-coding-project.de](https://www.a-coding-project.de/ratgeber/javascript/artikel/quelltext-schuetzen)

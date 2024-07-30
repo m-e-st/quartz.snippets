@@ -1,3 +1,11 @@
+---
+date: 2022-10-31
+tags:
+  - javascript
+  - code sample
+---
+
+
 ```js
 
 function encodeUnicode(str) {
