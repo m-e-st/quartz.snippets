@@ -31,10 +31,13 @@ a different dependency.
 
 - Datei `.eleventy.js`
 ```
-
+const htmlMinifier = require ('html-minifier-terser');
+...
+	eleventyConfig.addTransform ('htmlMinifier', function(content,outputPath) {
+...
 ```
 
-- Datei `.pakcage.json`
+- Datei `.package.json`
 
 - Befehle
 ```sh
@@ -49,3 +52,4 @@ NPM Libraries
 - https://www.npmjs.com/package/html-minifier
 - https://www.npmjs.com/package/html-minifier-terser
 - https://github.com/terser/html-minifier-terser/issues/37 --> Differences *the difference is that html-minifier-terser uses terser instead of uglify-js to support ES6 and newer.*
+- https://github.com/hexojs/hexo-html-minifier/pull/82
