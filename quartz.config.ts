@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: { },
     locale: "de-DE",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "snippets.hwn.de",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
